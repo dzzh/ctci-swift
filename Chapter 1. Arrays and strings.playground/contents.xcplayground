@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='1.1. All unique symbols'/>
+        <page name='1.2. Reverse a string'/>
+        <page name='1.3. Check permutation'/>
+        <page name='1.5. String compression'/>
+        <page name='1.6. Rotate image'/>
+        <page name='1.7. Nullify matrix'/>
+        <page name='1.8. Substring rotation'/>
+    </pages>
+</playground>
