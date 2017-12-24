@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='2.1 Remove duplicates '/>
+        <page name='2.2 Kth to last'/>
+        <page name='2.3 Delete middle node'/>
+        <page name='2.4 Partition'/>
+        <page name='2.5 Sum lists'/>
+        <page name='Linked list tests'/>
+    </pages>
+</playground>
