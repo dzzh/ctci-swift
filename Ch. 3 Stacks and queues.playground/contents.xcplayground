@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Queue tests'/>
+        <page name='Stack tests'/>
+        <page name='3.2 Min stack'/>
+        <page name='3.3 Stack of stacks'/>
+        <page name='3.4 Queue from stacks'/>
+        <page name='3.5 Sort stack'/>
+    </pages>
+</playground>
